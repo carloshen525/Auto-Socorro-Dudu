@@ -16,7 +16,7 @@ export default function Footer() {
           {/* Brand Info */}
           <div className="lg:col-span-4">
             <a href="#inicio" className="inline-block mb-4">
-              <Logo size="normal" />
+              <Logo size="large" />
             </a>
             <p className="text-neutral-400 text-sm leading-relaxed mb-6">
               Serviço profissional de reboque e assistência veicular 24 horas em São Luís e região. Atendimento emergencial rápido, seguro e com preço justo para carros, motos e outros veículos.

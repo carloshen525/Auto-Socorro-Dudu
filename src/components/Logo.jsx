@@ -1,9 +1,9 @@
 export default function Logo({ size = 'normal', className = '' }) {
   const sizeClass = size === 'large'
-    ? 'w-36 sm:w-44'
+    ? 'w-28 sm:w-32'
     : size === 'small'
-      ? 'w-20'
-      : 'w-[92px] sm:w-[120px]';
+      ? 'w-12'
+      : 'w-12 sm:w-16';
 
   return (
     <img
